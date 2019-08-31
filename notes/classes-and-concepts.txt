@@ -8,7 +8,7 @@ Widgets
         Text
         RaisedButton
         Image.asset
-        Image.network
+        ! Image.network
 
     Layout widgets
         Column
